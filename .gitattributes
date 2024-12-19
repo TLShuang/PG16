@@ -1,2 +1,18 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Set line endings for source code
+*.ino text eol=lf
+*.h text eol=lf
+*.cpp text eol=lf
+*.c text eol=lf
+*.md text eol=lf
+
+# Set binary file handling
+*.png binary
+*.jpg binary
+*.bin binary
+
+# Set attributes for specific folder contents
+/libraries/* export-ignore
+
+# Ignore extra metadata
+.DS_Store export-ignore
+Thumbs.db export-ignore
