@@ -3,6 +3,9 @@
 To add:
 - Enclosure Step Files for 3D printing
 - Doucmentation photos and videos
+- Brd files for PCBs
+
+![full build](https://raw.githubusercontent.com/TLShuang/PG16/refs/heads/main/Images%20and%20Videos/fullBuilds.jpg)
 
 ## Overview
 The Suitcase Synth Modulino is a portable, modular sound synthesizer that combines capacitive touch, sensor-driven sound manipulation, and visual feedback. Built for creativity and interaction, it allows users to explore monophonic sound creation, pitch bending, vibrato effects, and more, through intuitive controls and modular components.
