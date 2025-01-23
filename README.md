@@ -3,10 +3,6 @@
 
 [LEARN ABOUT OUR PROCESS THROUGH THIS PROJECT IN THE POTENTIALLY GENIUS SERIES](https://youtu.be/-QRer8uG97s?si=7fIsf5wegiuD1a32)
 
-To add:
-- Enclosure Step Files for 3D printing
-- Doucmentation photos and videos
-- Brd files for PCBs
 
 ![full build](https://raw.githubusercontent.com/TLShuang/PG16/refs/heads/main/Images%20and%20Videos/fullBuilds.jpg)
 
@@ -30,18 +26,25 @@ The Suitcase Synth Modulino is a portable, modular sound synthesizer that combin
 ---
 
 ## Setup
-### Required Components
+### Physical Setup and Components
 - Plug and Make Kit with modulinos
 - Modulino Buzzer, Buttons, Knob, Distance, Movement, and Pixels
 - Power supply (USB or battery)
 - Adafruit MPR121 Capacitive Touch Sensor
 - TL synth PCB or any capacitive items
-- 3D print carrier
+- 3D printer
+
+### Software Setup
+We used the following software to design this project. To recreate, you may use the following or use the provided file directly. You may also choose softwares that you feel comfortable using.
+- Fusion 360 (Schematic and PCB)
+- Solidworks (Enclosure Design)
+- Bambu Studio (3D Printing Slicer)
+- Arduino IDE (Programming)
 
 ### Assembly
-1. Connect the MPR121 sensor on PCB for capacitive touch input.
-2. Attach all Modulino components to the mainboard.
-3. Connect the LED Matrix and LED strip for visual feedback.
+1. Connect the MPR121 sensor on PCB for capacitive touch input. You can directly solder the MPR121 with male headers or use female headers.
+2. Attach all Modulino components to the microcontroller and on the mainboard or plateboard.
+3. Connect all the used Modulino with the Qwiic connectors provided in the kit.
 4. Upload the provided code to your Arduino.
 
 ---
