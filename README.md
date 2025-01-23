@@ -1,5 +1,8 @@
 # Suitcase Synth Modulino [FULL REPO PENDING COMPLETION]
 
+
+![LEARN ABOUT OUR PROCESS THROUGH THIS PROJECT AT TOMORROW](https://youtu.be/-QRer8uG97s?si=7fIsf5wegiuD1a32)
+
 To add:
 - Enclosure Step Files for 3D printing
 - Doucmentation photos and videos
