@@ -1,21 +1,15 @@
-MIT License
+CERN Open Hardware Licence Version 2 - Weakly Reciprocal (CERN-OHL-W-2.0)
 
-Copyright (c) 2024 shuang cai at Tomorrow Lab
+Copyright (C) 2024 shuang cai at Tomorrow Lab
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This Source describes Open Hardware and is licensed under the CERN-OHL-W-2.0.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+You may redistribute and modify this documentation and make products using it under the terms of the CERN-OHL-W-2.0. (https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2)
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY, OR FITNESS FOR A PARTICULAR PURPOSE. Please see the CERN-OHL-W-2.0 for applicable conditions.
+
+Source location: [Provide the link to your GitHub repository or project URL]
+
+As per CERN-OHL-W-2.0, you must retain the original copyright notice and, if you distribute this work or a derivative, cite the source. Additionally, modified works must be marked as such and include a prominent notice stating that the work has been modified, along with a description of the modifications.
+
+For more details, see: https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2
