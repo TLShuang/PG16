@@ -1,4 +1,4 @@
-# Suitcase Synth Modulino [FULL REPO PENDING COMPLETION]
+# Suitcase Synth Modulino
 
 
 [LEARN ABOUT OUR PROCESS THROUGH THIS PROJECT IN THE POTENTIALLY GENIUS SERIES](https://youtu.be/-QRer8uG97s?si=7fIsf5wegiuD1a32)
