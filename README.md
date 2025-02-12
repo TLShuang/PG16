@@ -43,7 +43,7 @@ We used the following software to design this project. To recreate, you may use 
 
 ### Assembly
 1. Connect the MPR121 sensor on PCB for capacitive touch input. You can directly solder the MPR121 with male headers or use female headers.
-2. Attach all Modulino components to the microcontroller and on the mainboard or plateboard.
+2. Attach all Modulino components to the microcontroller and on the mainboard or plateboard. You can use threaded M3 heats insert or thread forming screws to attach them on to your 3D print.
 3. Connect all the used Modulino with the Qwiic connectors provided in the kit.
 4. Upload the provided code to your Arduino.
 
